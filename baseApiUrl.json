@@ -1,4 +1,4 @@
 {
-  "api": "https://github.com/Nobita010/Album-api.git",
-  "apis":["https://github.com/Nobita010/Album-api.git"]
+  "api": "https://album-api-yoot.onrender.com/api",
+  "apis":["https://album-api-yoot.onrender.com/apis"]
 }
